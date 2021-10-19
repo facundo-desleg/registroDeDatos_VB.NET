@@ -1,0 +1,14 @@
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\bin\Debug\Registro_Datos.exe.config
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\bin\Debug\Registro_Datos.exe
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\bin\Debug\Registro_Datos.pdb
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\bin\Debug\Registro_Datos.xml
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.vbprojAssemblyReference.cache
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.Form1.resources
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.FormFecha.resources
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.Resources.resources
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.vbproj.GenerateResource.cache
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.vbproj.CoreCompileInputs.cache
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.exe
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.xml
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\obj\Debug\Registro_Datos.pdb
+C:\Users\facunz\Source\Repos\Registro_Datos\Registro_Datos\bin\Debug\bd_Regis.mdb
