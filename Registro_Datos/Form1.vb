@@ -12,7 +12,7 @@ Public Class Form1
     End Sub
 
     Private Sub Butaceptar_Click(sender As Object, e As EventArgs) Handles Butaceptar.Click
-        Dim con As New OleDbConnection("Provider=Microsoft.Jet.OleDb.4.0; Data Source=C:\Registro_Datos\Base_Datos\bd_Regis.mdb")
+        Dim con As New OleDbConnection("Provider=Microsoft.Jet.OleDb.4.0; Data Source=C:\...\...\...mdb")
         con.Open()
         Dim consulta As String = "insert  into Registro(Num_Cliente,Nombre,Apellido,Edad,Direccion,Fecha_Nacimiento,Mail)values('" & TexCliente.Text & "','" & TexNombre.Text & "','" & TexApellido.Text & "','" & Texedad.Text & "','" & Texdireccion.Text & "','" & DateFecha.Text & "', '" & Texmail.Text & "')"
 
